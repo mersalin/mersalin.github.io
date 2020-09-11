@@ -1,5 +1,5 @@
 ---
 layout: category
 category: jekyll
-permalink: /categories/jekyll/
+permalink: /categories/java/
 ---
